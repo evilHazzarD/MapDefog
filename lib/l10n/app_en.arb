@@ -1,0 +1,990 @@
+{
+  "@@locale": "en",
+  "tabMap": "Map",
+  "tabQuests": "Quests",
+  "tabHoard": "Hoard",
+  "tabChronicle": "Chronicle",
+  "settingsTitle": "Settings",
+  "sectionNotifications": "Notifications",
+  "dailyReminderTitle": "Daily reminder",
+  "dailyReminderSubtitle": "Nudge you if the streak is at risk.",
+  "nearbyCachesTitle": "Nearby caches",
+  "nearbyCachesSubtitle": "Alert when a chest is close while walking.",
+  "sectionFog": "Fog",
+  "fogDensityTitle": "Fog density",
+  "fogDensitySubtitle": "How thick the mist feels on the map.",
+  "sectionUnits": "Units",
+  "unitsMetric": "Metric",
+  "unitsImperial": "Imperial",
+  "sectionFeel": "Feel",
+  "hapticsTitle": "Haptics",
+  "hapticsSubtitle": "Light taps when you open a cache.",
+  "sectionAppearance": "Appearance",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "sectionLanguage": "Language",
+  "languageSystem": "System",
+  "languageEnglish": "English",
+  "languageRussian": "Русский",
+  "languageUkrainian": "Українська",
+  "sectionBackup": "Backup",
+  "backupBlurb": "Export or import your fog, journal, and treasury as JSON.",
+  "exportLabel": "Export",
+  "importLabel": "Import",
+  "atlasImported": "Atlas imported",
+  "sectionAbout": "About",
+  "next": "Next",
+  "later": "Later",
+  "allowLocation": "Allow location",
+  "onboardingTitle1": "Walk through the mist",
+  "onboardingBody1": "MapDefog turns your walks into a living map. Every street you tread clears the fog and fills your journal.",
+  "onboardingTitle2": "What you will find",
+  "featureCachesTitle": "Caches",
+  "featureCachesBody": "Treasure chests hidden in the fog.",
+  "featureBeaconsTitle": "Beacons",
+  "featureBeaconsBody": "Daily goals that lead you somewhere new.",
+  "featureRelicsTitle": "Relics",
+  "featureRelicsBody": "Collect sets and earn titles.",
+  "featureStreaksTitle": "Streaks",
+  "featureStreaksBody": "Walk most days to keep the flame alive.",
+  "onboardingTitle3": "Ready to explore?",
+  "onboardingBody3": "MapDefog needs your location while you walk so it can reveal the map around you. You can change this anytime in settings.",
+  "setOut": "Set out",
+  "endJourney": "End journey",
+  "tooFast": "Too fast",
+  "questsTitle": "Quests",
+  "today": "Today",
+  "thisWeek": "This week",
+  "claim": "Claim",
+  "showOnMap": "Show on map",
+  "treasuryTitle": "Treasury",
+  "relicsTab": "Relics",
+  "shopTab": "Shop",
+  "fogStyles": "Fog styles",
+  "boosts": "Boosts",
+  "lanternTitle": "Lantern",
+  "lanternBody": "Wider reveal for one hour.",
+  "radarTitle": "Radar",
+  "radarBody": "See nearby caches for one hour.",
+  "streakShieldTitle": "Streak shield",
+  "streakShieldBody": "Protect your streak.",
+  "notEnoughCoins": "Not enough coins",
+  "active": "Active",
+  "tapToUse": "Tap to use",
+  "buy": "Buy",
+  "weeklyRefill": "Weekly caches refill every Monday.",
+  "streakSafe": "Streak safe for today",
+  "journalTitle": "Journal",
+  "explored": "EXPLORED",
+  "walked": "Walked",
+  "sectors": "Sectors",
+  "caches": "Caches",
+  "beacons": "Beacons",
+  "bestStreak": "Best streak",
+  "cells": "Cells",
+  "activity": "Activity",
+  "exploreFirstSector": "Explore to chart your first sector.",
+  "recentWalks": "Recent walks",
+  "nextDeeds": "NEXT DEEDS",
+  "openDeedBook": "Open deed book",
+  "allTiersComplete": "All tiers complete",
+  "unlocked": "Unlocked",
+  "locked": "Locked",
+  "allWalksTitle": "All walks",
+  "walks": "Walks",
+  "time": "Time",
+  "noWalksYet": "No walks yet — head out and explore.",
+  "walkTitle": "Walk",
+  "walkNotFound": "Walk not found",
+  "distance": "Distance",
+  "pace": "Pace",
+  "chests": "Chests",
+  "cancel": "Cancel",
+  "nice": "Nice",
+  "cacheOpened": "Chest opened",
+  "relicNew": "New relic",
+  "relicDuplicate": "Duplicate",
+  "takeLoot": "Claim the loot",
+  "badgeUnlocked": "Deed accomplished",
+  "levelUp": "Level up",
+  "setComplete": "Set complete",
+  "unitFeet": "ft",
+  "unitMiles": "mi",
+  "unitMeters": "m",
+  "unitKilometers": "km",
+  "unitMilesSquared": "mi²",
+  "unitMetersSquared": "m²",
+  "unitKmSquared": "km²",
+  "unitMinutes": "min",
+  "unitHours": "h",
+  "notifyChannelNearby": "Nearby finds",
+  "notifyChannelRemind": "Evening nudge",
+  "notifyChannelJourney": "Journey",
+  "notifyJourneyDescription": "MapDefog is charting your walk",
+  "notifyChestNearby": "A chest nearby",
+  "notifyChestOpened": "Chest opened",
+  "notifyChestOpenedBody": "Something gleams in the mist",
+  "notifyRemindBeaconTitle": "The mist waits",
+  "notifyShrineReached": "Shrine reached",
+  "notifyShrineBody": "The beacon of the day is yours",
+  "notifyRemindBody": "The streak waits in the mist…",
+  "notifyCharting": "Charting the mist…",
+  "notifyStillCharting": "Still charting…",
+  "stopWalk": "Stop",
+  "needLocationTitle": "The atlas needs to know where you stand",
+  "needLocationText": "The mist parts wherever you walk. Your path never leaves this phone.",
+  "osmCredit": "© OpenStreetMap contributors",
+  "followMe": "Follow",
+  "walkingHint": "The journey goes on with the screen off",
+  "rerollTitle": "Reroll the shrine",
+  "rerollBody": "Place today's shrine somewhere new. Once per day, if you have not reached it.",
+  "rerollDone": "Already rerolled today",
+  "importConfirmTitle": "Import atlas?",
+  "importConfirmBody": "This merges the backup into your current atlas. Continue?",
+  "importConfirmAction": "Import",
+  "aboutBody": "MapDefog reveals your city as you walk. Map data © OpenStreetMap contributors.",
+  "exportFailed": "Export failed: {error}",
+  "@exportFailed": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "importFailed": "Import failed: {error}",
+  "@importFailed": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "versionLabel": "Version {version}",
+  "@versionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "remindAtLabel": "Remind at {time}",
+  "@remindAtLabel": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "shrineLabel": "Shrine {arrow}",
+  "@shrineLabel": {
+    "placeholders": {
+      "arrow": {
+        "type": "String"
+      }
+    }
+  },
+  "dayStreak": "{days} day streak",
+  "@dayStreak": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "xpLabel": "+{xp} XP",
+  "@xpLabel": {
+    "placeholders": {
+      "xp": {
+        "type": "int"
+      }
+    }
+  },
+  "buyConfirm": "Buy {name}?",
+  "@buyConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "foundTimes": "{count, plural, one{Found {count} time} other{Found {count} times}}",
+  "@foundTimes": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "buyCost": "{price, plural, one{Cost {price} coin. You have {coins}.} other{Cost {price} coins. You have {coins}.}}",
+  "@buyCost": {
+    "placeholders": {
+      "price": {
+        "type": "int"
+      },
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "completeFor": "{coins, plural, one{Complete for {coins} coin} other{Complete for {coins} coins}}",
+  "@completeFor": {
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "relicsCount": "{have} of {total} relics",
+  "@relicsCount": {
+    "placeholders": {
+      "have": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "shieldCount": "{have}/{max}",
+  "@shieldCount": {
+    "placeholders": {
+      "have": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "resetsIn": "Resets in {hours} h {minutes} min",
+  "@resetsIn": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "exploreToSave": "{cells, plural, one{Explore {cells} cell to save today} other{Explore {cells} cells to save today}}",
+  "@exploreToSave": {
+    "placeholders": {
+      "cells": {
+        "type": "int"
+      }
+    }
+  },
+  "shieldsBest": "{shields, plural, one{{shields} shield · Best {best}} other{{shields} shields · Best {best}}}",
+  "@shieldsBest": {
+    "placeholders": {
+      "shields": {
+        "type": "int"
+      },
+      "best": {
+        "type": "int"
+      }
+    }
+  },
+  "daysLeft": "{days, plural, one{{days} day left} other{{days} days left}}",
+  "@daysLeft": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "percentOfEarth": "{percent}% of Earth",
+  "@percentOfEarth": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "activeDays": "{count, plural, one{{count} active day} other{{count} active days}}",
+  "@activeDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "badgesCount": "Badges {done}/{total}",
+  "@badgesCount": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "allWalksCount": "{count, plural, one{All walks ({count})} other{All {count} walks}}",
+  "@allWalksCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "deedsTitle": "Deeds {done}/{total}",
+  "@deedsTitle": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "percentProgress": "{percent}% progress",
+  "@percentProgress": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "cachesFound": "{count, plural, one{{count} cache} other{{count} caches}}",
+  "@cachesFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "cacheOf": "Cache of {rarity}",
+  "@cacheOf": {
+    "placeholders": {
+      "rarity": {
+        "type": "String"
+      }
+    }
+  },
+  "plusGold": "+{coins} gold",
+  "@plusGold": {
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "plusXp": "+{xp} XP",
+  "@plusXp": {
+    "placeholders": {
+      "xp": {
+        "type": "int"
+      }
+    }
+  },
+  "relicSetProgress": "{setName} · {have} / {total}",
+  "@relicSetProgress": {
+    "placeholders": {
+      "setName": {
+        "type": "String"
+      },
+      "have": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "badgeMore": "And {more} more",
+  "@badgeMore": {
+    "placeholders": {
+      "more": {
+        "type": "int"
+      }
+    }
+  },
+  "levelN": "Level {level}",
+  "@levelN": {
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "levelUpText": "The atlas remembers every step. Take {gold} gold for the road.",
+  "@levelUpText": {
+    "placeholders": {
+      "gold": {
+        "type": "int"
+      }
+    }
+  },
+  "setCompleteText": "You earn the title «{title}» and {coins} gold.",
+  "@setCompleteText": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "notifyAboutMeters": "About {meters} m away",
+  "@notifyAboutMeters": {
+    "placeholders": {
+      "meters": {
+        "type": "int"
+      }
+    }
+  },
+  "notifyNearTitle": "{rarity} chest nearby",
+  "@notifyNearTitle": {
+    "placeholders": {
+      "rarity": {
+        "type": "String"
+      }
+    }
+  },
+  "notifyOpenedTitle": "{rarity} chest opened",
+  "@notifyOpenedTitle": {
+    "placeholders": {
+      "rarity": {
+        "type": "String"
+      }
+    }
+  },
+  "notifyOpenedCoins": "+{coins} gold for your atlas",
+  "@notifyOpenedCoins": {
+    "placeholders": {
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "notifyStreakTitle": "{days}-day streak at risk",
+  "@notifyStreakTitle": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "notifyWalkStats": "{cells, plural, one{{cells} cell · {distance}} other{{cells} cells · {distance}}}",
+  "@notifyWalkStats": {
+    "placeholders": {
+      "cells": {
+        "type": "int"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "toastNewLand": "New land: {name}",
+  "@toastNewLand": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "toastMilestone": "{name} is {percent}% charted · +{coins} gold",
+  "@toastMilestone": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "int"
+      },
+      "coins": {
+        "type": "int"
+      }
+    }
+  },
+  "lanternLeft": "Lantern {time}",
+  "@lanternLeft": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "radarLeft": "Radar {time}",
+  "@radarLeft": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "todayLine": "{cells, plural, one{Today · {cells} cell · {distance}} other{Today · {cells} cells · {distance}}}",
+  "@todayLine": {
+    "placeholders": {
+      "cells": {
+        "type": "int"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "rarityLabel": "{rarity, select, common{Common} rare{Rare} epic{Epic} legendary{Legendary} other{}}",
+  "@rarityLabel": {
+    "description": "Chest and relic rarity, by Rarity.name.",
+    "placeholders": {
+      "rarity": {
+        "type": "String"
+      }
+    }
+  },
+  "relicNameById": "{id, select, compass{Brass Compass} boots{Worn Boots} lantern{Tin Lantern} staff{Walking Staff} flask{Water Flask} rope{Coil of Rope} torn_map{Torn Map} sea_chart{Sea Chart} star_chart{Star Chart} city_plan{City Plan} treasure_map{Treasure Map} nowhere_map{Map of Nowhere} watch{Pocket Watch} spyglass{Spyglass} music_box{Music Box} hourglass{Hourglass} quill{Cartographer's Quill} snow_globe{Snow Globe} moonstone{Moonstone} amber{Amber Drop} pearl{River Pearl} fossil{Fossil Shell} geode{Geode} meteorite{Meteorite Shard} dragon_scale{Dragon Scale} phoenix_feather{Phoenix Feather} mermaid_comb{Mermaid's Comb} griffin_claw{Griffin Claw} unicorn_hair{Unicorn Hair} kraken_ink{Kraken Ink} comet_tail{Comet Tail} star_seed{Star Seed} sun_coin{Sun Coin} moon_key{Moon Key} aurora_ribbon{Aurora Ribbon} void_pearl{Void Pearl} other{}}",
+  "@relicNameById": {
+    "description": "Relic name by relic id. Empty for unknown ids.",
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "relicLoreById": "{id, select, compass{Its needle wavers toward places you have never been.} boots{Someone walked a thousand streets in these. Now it's your turn.} lantern{Lit once, it never quite goes out.} staff{Carved with the initials of every owner. There's room for yours.} flask{Always cool, however long the road.} rope{Forty feet of good hemp and a knot no one can untie.} torn_map{Half a city. The other half is out there somewhere.} sea_chart{Coastlines drawn by a sailor who never saw them.} star_chart{Constellations that only appear above unexplored streets.} city_plan{Every alley marked, every name misspelled.} treasure_map{The X keeps moving. Probably on purpose.} nowhere_map{Blank paper that slowly fills as you walk.} watch{Runs fast when you rest and slow when you wander.} spyglass{Look through it and the fog thins a little.} music_box{Plays a tune from the street where it was found.} hourglass{The sand falls upward on long walks.} quill{It draws the roads before you reach them.} snow_globe{A tiny town inside. The lights are on.} moonstone{Glows faintly when the moon is up and you are out.} amber{A tiny map is trapped inside, older than any city.} pearl{Found where a river once ran under the street.} fossil{This was the seabed. Now it's your neighbourhood.} geode{Plain outside, a whole cave of crystals within.} meteorite{Fell from the sky to be found by a walker.} dragon_scale{Warm to the touch. Don't ask where the dragon is.} phoenix_feather{Burns without heat and never turns to ash.} mermaid_comb{Smells of salt, though the sea is far away.} griffin_claw{Points north, as all good griffins do.} unicorn_hair{A single silver strand that hums in the wind.} kraken_ink{Write a street's name in it and you'll never forget the way.} comet_tail{A wisp of light caught on the way past Earth.} star_seed{Plant it in the dark and something will grow.} sun_coin{Minted at noon on the longest day of the year.} moon_key{Opens a door that only exists after midnight.} aurora_ribbon{Green and violet, it moves on its own.} void_pearl{Holds the dark between the stars. The rarest thing a walker finds.} other{}}",
+  "@relicLoreById": {
+    "description": "One line of relic lore by relic id.",
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "relicSetName": "{set, select, wayfarer{Wayfarer's Pack} maps{Maps of Old} curios{Wizard's Curios} stones{Gems of the Deep} myths{Beasts of Legend} stars{Gifts of the Heavens} other{Gifts of the Heavens}}",
+  "@relicSetName": {
+    "description": "Relic set name by set id.",
+    "placeholders": {
+      "set": {
+        "type": "String"
+      }
+    }
+  },
+  "relicSetTitle": "{set, select, wayfarer{Seasoned Wayfarer} maps{Keeper of Maps} curios{Apprentice of Wonders} stones{Delver of the Deep} myths{Dragonfriend} stars{Child of the Stars} other{Child of the Stars}}",
+  "@relicSetTitle": {
+    "description": "Title earned by completing a relic set.",
+    "placeholders": {
+      "set": {
+        "type": "String"
+      }
+    }
+  },
+  "rankName": "{index, select, i0{Wanderer} i1{Squire} i2{Ranger} i3{Pathfinder} i4{Cartographer} i5{Knight-Errant} i6{Lorekeeper} i7{Legend of the Realm} other{Legend of the Realm}}",
+  "@rankName": {
+    "description": "Walker rank; index is \"i\" + rank number (i0..i7).",
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "badgeTitleById": "{id, select, km_1{First Steps} km_2{Stretching the Legs} km_3{Morning Stroll} km_4{Ten-League Boots} km_5{Long Road} km_6{Half a Hundred} km_7{Centurion of the Road} km_8{Two Hundred Miles of Song} km_9{Pilgrim} km_10{Five Hundred Leagues} km_11{Tireless} km_12{The Thousand} km_13{Wanderer of Ages} km_14{Two Thousand Roads} km_15{Crosser of Kingdoms} km_16{Walker Between Worlds} area_1{A Clearing} area_2{Patch of Light} area_3{The Village Green} area_4{Quarter Charted} area_5{Half a League} area_6{The Square League} area_7{Two Leagues of Land} area_8{Barony} area_9{County} area_10{Duchy} area_11{March} area_12{Principality} area_13{Kingdom} area_14{Empire} cells_1{Hundred Steps} cells_2{Five Hundred Stones} cells_3{Thousand Tiles} cells_4{Mapmaker's Apprentice} cells_5{Mapmaker's Journeyman} cells_6{Ten Thousand Squares} cells_7{Master of the Grid} cells_8{Half a Myriad More} cells_9{One Hundred Thousand} cells_10{Weaver of the World} cache_1{Lucky Find} cache_2{Treasure Hunter} cache_3{Pocketful of Loot} cache_4{Chest Cracker} cache_5{Hoarder} cache_6{Hundred Locks} cache_7{Vault Breaker} cache_8{Dragon's Envy} cache_9{Lord of Plunder} cache_10{Hoard of Legend} rare_1{Glimmer of Blue} rare_2{Collector of Rarities} rare_3{Rare Breed} rare_4{Hundred Wonders} epic_1{Touched by Magic} epic_2{Spellbound} epic_3{Arcane Hoard} legend_1{Legendary Luck} legend_2{Fortune's Favourite} legend_3{Chosen by Fate} relic_1{Curiosity Shelf} relic_2{Cabinet of Wonders} relic_3{Museum Wing} relic_4{Hall of Relics} relic_5{Royal Collection} relic_6{Keeper of Treasures} relic_7{Every Last Relic} set_1{Complete Set} set_2{Pair of Sets} set_3{Three Sets Whole} set_4{Four Sets Whole} set_5{Five Sets Whole} set_6{All Six Sets} sector_1{Beyond the Gate} sector_2{Three Lands} sector_3{Five Lands} sector_4{Ten Lands} sector_5{Twenty Lands} sector_6{Thirty Lands} sector_7{Fifty Lands} sector_8{Seventy-Five Lands} sector_9{Hundred Lands} sector_10{Two Hundred Lands} charted_1{Charted Land} charted_2{Three Charted} charted_3{Five Charted} charted_4{Ten Charted} charted_5{Twenty-Five Charted} half_1{Lord of a Land} half_2{Lord of Three} half_3{Lord of Ten} streak_1{Kindled} streak_2{A Week of Roads} streak_3{Fortnight Faithful} streak_4{Moon's Turn} streak_5{Two Moons} streak_6{Hundred Dawns} streak_7{Unbroken} streak_8{A Year and a Day} beacon_1{First Shrine} beacon_2{Pilgrim's Path} beacon_3{Ten Shrines} beacon_4{Shrine Seeker} beacon_5{Keeper of Flames} beacon_6{Hundred Altars} beacon_7{High Priest of Paths} quest_1{First Quest} quest_2{Errand Runner} quest_3{Adventurer} quest_4{Questing Knight} quest_5{Hero of the Realm} quest_6{Saga} quest_7{Epic Cycle} weekly_1{Great Quest} weekly_2{Five Great Quests} weekly_3{Ten Great Quests} weekly_4{Champion of Weeks} weekly_5{A Year of Great Quests} days_1{Seven Days Out} days_2{A Month on the Road} days_3{Two Moons Out} days_4{Hundred Days} days_5{Two Hundred Days} days_6{A Year of Roads} bigday_1{Busy Day} bigday_2{Big Day Out} bigday_3{Day of Wonders} bigday_4{Day of Legend} longday_1{Five-League Day} longday_2{Ten-Kilometre Day} longday_3{Fifteen Strong} longday_4{Twenty Strong} longday_5{Thirty Strong} longday_6{Marathon of the Realm} night_1{Night Owl} night_2{Moonwalker} night_3{Shadow of the Streets} dawn_1{Early Bird} dawn_2{Herald of Dawn} dawn_3{Sunrise Warden} level_1{Level Five} level_2{Level Ten} level_3{Level Fifteen} level_4{Level Twenty} level_5{Level Twenty-Five} level_6{Level Thirty} level_7{Level Forty} level_8{Level Fifty} walks_1{First Journey} walks_2{Ten Journeys} walks_3{Fifty Journeys} walks_4{Hundred Journeys} walks_5{Two Hundred Fifty Journeys} walks_6{Five Hundred Journeys} gold_1{Coin Purse} gold_2{Heavy Purse} gold_3{Dragon's Gold} style_1{Weather Witch} style_2{Mistcaller} style_3{Master of Mists} other{}}",
+  "@badgeTitleById": {
+    "description": "Deed title by badge id (group_tier). Empty for unknown ids.",
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "badgeGroupName": "{group, select, km{Roads walked} area{Land charted} cells{Cells revealed} cache{Chests opened} rare{Rare chests} epic{Epic chests} legend{Legendary chests} relic{Relics} set{Relic sets} sector{Lands visited} charted{Lands charted} half{Lands ruled} streak{Streaks} beacon{Shrines} quest{Quests} weekly{Great quests} days{Days on the road} bigday{Great days} longday{Long days} night{Night journeys} dawn{Dawn journeys} level{Levels} walks{Journeys} gold{Gold} style{Mists} other{Mists}}",
+  "@badgeGroupName": {
+    "description": "Heading for a kind of deed in the book of deeds.",
+    "placeholders": {
+      "group": {
+        "type": "String"
+      }
+    }
+  },
+  "fogStyleName": "{id, select, mist{Silver Mist} parchment{Old Parchment} snow{Winter's Breath} midnight{Starlit Night} ember{Dragon's Ash} aurora{Elven Lights} other{Silver Mist}}",
+  "@fogStyleName": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "fogStyleText": "{id, select, mist{The grey mist of the borderlands} parchment{A map from a wizard's tower} snow{Frost over the unknown lands} midnight{Deep night and scattered stars} ember{Smouldering ash of a dragon's flight} aurora{Elven lights over the city} other{The grey mist of the borderlands}}",
+  "@fogStyleText": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "nudgeStreak": "{index, select, i0{A short journey keeps the flame alive. Twenty-five new cells will do.} i1{The mist creeps back over today. Go and push it away.} i2{Somewhere near you is a road no one has charted yet. You, at least.} i3{Your streak waits by the door, cloak on.} other{A short journey keeps the flame alive. Twenty-five new cells will do.}}",
+  "@nudgeStreak": {
+    "description": "Evening nudge while a streak is alive; index i0..i3.",
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "nudgeFresh": "{index, select, i0{Today's shrine has awakened. Shall we see where?} i1{New chests appear every Monday. Some are close.} i2{A quarter of an hour is enough to chart a corner of the realm.} i3{The mist still hides the lands around you. Let's change that.} other{Today's shrine has awakened. Shall we see where?}}",
+  "@nudgeFresh": {
+    "description": "Evening nudge with no streak; index i0..i3.",
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "mottoLine": "{index, select, i0{Every road you walk stays on the map.} i1{The mist hides more than roads.} i2{Walk somewhere new today.} i3{Chests refill every Monday.} i4{The shrine always wakes where the mist is thickest.} i5{Turn left where you always turn right.} i6{An atlas is a chronicle written with your feet.} other{Every road you walk stays on the map.}}",
+  "@mottoLine": {
+    "description": "Line for the map's empty fog; index i0..i6.",
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "sectorAdjective": "{form, select, i0m{Whispering} i1m{Silent} i2m{Golden} i3m{Hidden} i4m{Misty} i5m{Amber} i6m{Sleeping} i7m{Windy} i8m{Crooked} i9m{Lantern} i10m{Silver} i11m{Elder} i12m{Mossy} i13m{Copper} i14m{Quiet} i15m{Wandering} i16m{Velvet} i17m{Moonlit} i18m{Echoing} i19m{Forgotten} i20m{Northern} i21m{Distant} i22m{Starry} i23m{Sunlit} other{}}",
+  "@sectorAdjective": {
+    "description": "Sector adjective; form is \"i\" + index + gender of the noun (m, f, n or p for plural), e.g. i3f.",
+    "placeholders": {
+      "form": {
+        "type": "String"
+      }
+    }
+  },
+  "sectorNoun": "{index, select, i0{Hollow} i1{Grove} i2{Reach} i3{Heights} i4{Gate} i5{Market} i6{Harbour} i7{Bend} i8{Meadow} i9{Crossing} i10{Garden} i11{Ridge} i12{Keep} i13{Hills} i14{Court} i15{Steps} i16{Fields} i17{Corner} i18{Wharf} i19{Square} i20{Lanes} i21{Terrace} i22{Woods} i23{Vale} other{}}",
+  "@sectorNoun": {
+    "description": "Sector noun; index i0..i23.",
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "sectorNounGender": "{index, select, other{m}}",
+  "@sectorNounGender": {
+    "description": "Grammatical gender of sectorNoun: m, f, n or p. Picks the sectorAdjective form.",
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "sectorNameFormat": "{adjective} {noun}",
+  "@sectorNameFormat": {
+    "placeholders": {
+      "adjective": {
+        "type": "String"
+      },
+      "noun": {
+        "type": "String"
+      }
+    }
+  },
+  "badgeKm": "Walk {count} km in total",
+  "@badgeKm": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeArea": "Chart {area} km² of the realm",
+  "@badgeArea": {
+    "description": "Deed text; area is a formatted km² number.",
+    "placeholders": {
+      "area": {
+        "type": "String"
+      }
+    }
+  },
+  "badgeCells": "{count, plural, one{Reveal {count} cell} other{Reveal {count} cells}}",
+  "@badgeCells": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeCache": "Open {count} chests",
+  "@badgeCache": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeCacheFirst": "Open your first chest",
+  "@badgeCacheFirst": {
+    "description": "Deed text for the first cache deed (goal 1)."
+  },
+  "badgeRare": "Open {count} rare chests or better",
+  "@badgeRare": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeRareFirst": "Open a rare chest",
+  "@badgeRareFirst": {
+    "description": "Deed text for the first rare deed (goal 1)."
+  },
+  "badgeEpic": "Open {count} epic chests or better",
+  "@badgeEpic": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeEpicFirst": "Open an epic chest",
+  "@badgeEpicFirst": {
+    "description": "Deed text for the first epic deed (goal 1)."
+  },
+  "badgeLegend": "Open {count} legendary chests",
+  "@badgeLegend": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeLegendFirst": "Open a legendary chest",
+  "@badgeLegendFirst": {
+    "description": "Deed text for the first legend deed (goal 1)."
+  },
+  "badgeRelic": "Collect {count} different relics",
+  "@badgeRelic": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeRelicAll": "Collect every relic",
+  "@badgeRelicAll": {
+    "description": "Deed text for collecting all 36 relics."
+  },
+  "badgeSet": "Complete {count} relic sets",
+  "@badgeSet": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeSetFirst": "Complete a relic set",
+  "@badgeSetFirst": {
+    "description": "Deed text for the first set deed (goal 1)."
+  },
+  "badgeSector": "Set foot in {count} lands",
+  "@badgeSector": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeSectorFirst": "Set foot in a land",
+  "@badgeSectorFirst": {
+    "description": "Deed text for the first sector deed (goal 1)."
+  },
+  "badgeCharted": "Chart a quarter of {count} lands",
+  "@badgeCharted": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeChartedFirst": "Chart a quarter of a land",
+  "@badgeChartedFirst": {
+    "description": "Deed text for the first charted deed (goal 1)."
+  },
+  "badgeHalf": "Chart half of {count} lands",
+  "@badgeHalf": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeHalfFirst": "Chart half of a land",
+  "@badgeHalfFirst": {
+    "description": "Deed text for the first half deed (goal 1)."
+  },
+  "badgeStreak": "Journey {count} days in a row",
+  "@badgeStreak": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeBeacon": "Reach {count} shrines",
+  "@badgeBeacon": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeBeaconFirst": "Reach a shrine of the day",
+  "@badgeBeaconFirst": {
+    "description": "Deed text for the first beacon deed (goal 1)."
+  },
+  "badgeQuest": "Complete {count} quests",
+  "@badgeQuest": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeQuestFirst": "Complete a quest",
+  "@badgeQuestFirst": {
+    "description": "Deed text for the first quest deed (goal 1)."
+  },
+  "badgeWeekly": "Complete {count} great quests",
+  "@badgeWeekly": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeWeeklyFirst": "Complete a great quest of the week",
+  "@badgeWeeklyFirst": {
+    "description": "Deed text for the first weekly deed (goal 1)."
+  },
+  "badgeDays": "Be on the road on {count} different days",
+  "@badgeDays": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeBigday": "Reveal {count} cells in one day",
+  "@badgeBigday": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeLongday": "Walk {count} km in one day",
+  "@badgeLongday": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeNight": "Reveal {count} cells after 22:00",
+  "@badgeNight": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeDawn": "Reveal {count} cells before 7:00",
+  "@badgeDawn": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeLevel": "Reach level {count}",
+  "@badgeLevel": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeWalks": "Make {count} journeys",
+  "@badgeWalks": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeWalksFirst": "Finish your first journey",
+  "@badgeWalksFirst": {
+    "description": "Deed text for the first walks deed (goal 1)."
+  },
+  "badgeGold": "Earn {count} gold in all",
+  "@badgeGold": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "badgeStyle": "Own {count} mists",
+  "@badgeStyle": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "questCells": "{count, plural, one{Reveal {count} new cell} other{Reveal {count} new cells}}",
+  "@questCells": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "questMeters": "Walk {km} km",
+  "@questMeters": {
+    "placeholders": {
+      "km": {
+        "type": "String"
+      }
+    }
+  },
+  "questCaches": "Open {count} chests",
+  "@questCaches": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "questCachesFirst": "Open a chest",
+  "questRare": "Open a rare chest or better",
+  "questBeacon": "Reach the shrine of the day"
+}
